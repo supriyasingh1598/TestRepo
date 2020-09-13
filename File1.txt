@@ -5,3 +5,6 @@ Change2 – commit with message as “Change2 in File1”
 Change1 - Change 1
 
 File1 changes for branch master
+
+File1 changed to commit idea
+
